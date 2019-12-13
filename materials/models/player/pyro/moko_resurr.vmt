@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "models/player/pyro/moko_resurr"
+	"$translucent" 1
+	"$no_fullbright" "1"	
+}
